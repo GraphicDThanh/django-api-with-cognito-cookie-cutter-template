@@ -1,0 +1,1 @@
+bin/dj.sh makemigrations
